@@ -1,0 +1,16 @@
+{
+  "name": "mysql-to",
+  "version": "0.0.1",
+  "description": "mysql to js first time",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yepes",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mysql": "^2.18.1"
+  }
+}
